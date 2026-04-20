@@ -1,5 +1,7 @@
 # Ağ Anomali Tespit Sistemi
 <img width="1692" height="798" alt="resim" src="https://github.com/user-attachments/assets/0515e361-6fd6-41f4-a6c7-a081ee36d321" />
+<img width="1113" height="927" alt="resim" src="https://github.com/user-attachments/assets/db249e6d-ee10-41d4-871b-0555540591e8" />
+
 
 
 Canlı paket yakalama ve Z-skor tabanlı eşik analizi ile ağ trafik anomalilerini tespit eden gerçek zamanlı istatistiksel analiz motoru.
